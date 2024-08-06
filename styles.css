@@ -11,6 +11,10 @@
   z-index: 10;
   width: 100%;
 }
+.vid{
+  width: 70%; 
+  height: 35em;
+}
 .el{
   text-align: center;
   padding: 15px 0;
@@ -83,6 +87,10 @@
     width: 15rem !important;
     margin-bottom: 3em;
   }
+  .vid{
+    width: 90%; 
+    height: 15em;
+  }
   .carbtn{
     margin-bottom: 2em;
   }
@@ -91,6 +99,7 @@
   }
   .pad{
     padding: 0;
+    margin-top: 2em;
   }
   #form{
     width: 100%;
