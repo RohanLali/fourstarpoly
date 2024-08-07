@@ -87,6 +87,15 @@
     width: 15rem !important;
     margin-bottom: 3em;
   }
+  .content-box{
+    bottom: 25em;
+  }
+  .cvb{
+    height: 30em;
+  }
+  .wid{
+    width: 25em;
+  }
   .jor{
     text-align: center;
   }
